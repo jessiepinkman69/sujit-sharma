@@ -29,7 +29,7 @@ const Header = () => {
         <div className="flex items-center justify-between">
           {/* Logo */}
           <div className="w-8 h-8 sm:w-10 sm:h-10 bg-gradient-to-br from-primary to-purple-600 rounded-full flex items-center justify-center shadow-lg">
-            <span className="text-white font-bold text-lg sm:text-xl">B</span>
+            <span className="text-white font-bold text-lg sm:text-xl">S</span>
           </div>
 
           {/* Desktop Navigation */}

@@ -15,6 +15,13 @@ const ContactSection = () => {
       value: "Connect with me",
       link: "https://www.linkedin.com/in/sujit-sharma-957556233/",
       color: "text-primary"
+    },
+    {
+      icon: Instagram,
+      label: "Instagram",
+      value: "Follow me",
+      link: "https://www.instagram.com/sir_suzzit07/",
+      color: "text-secondary"
     }
   ];
 

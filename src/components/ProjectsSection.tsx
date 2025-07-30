@@ -15,7 +15,7 @@ const ProjectsSection = () => {
       tech: "Python & Node.js",
       date: "In Progress",
       description: "Created an AI model that automatically classifies user reviews as positive, negative or neutral based on trained data from a large dataset with 1000s of reviews.",
-      github: "https://github.com/sujit-4092/",
+      github: "https://github.com/nikhilij/AI-Based-Review-Classfier",
       image: "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=600&h=400&fit=crop"
     }
   ];
