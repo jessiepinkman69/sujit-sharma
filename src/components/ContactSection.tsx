@@ -5,23 +5,16 @@ const ContactSection = () => {
     {
       icon: Mail,
       label: "Email",
-      value: "parajulibibek275@gmail.com",
-      link: "mailto:parajulibibek275@gmail.com",
+      value: "sujit0777sharma@gmail.com",
+      link: "mailto:sujit0777sharma@gmail.com",
       color: "text-accent"
     },
     {
       icon: Linkedin,
       label: "LinkedIn",
       value: "Connect with me",
-      link: "https://www.linkedin.com/in/bibekprj/",
+      link: "https://www.linkedin.com/in/sujit-sharma-957556233/",
       color: "text-primary"
-    },
-    {
-      icon: Instagram,
-      label: "Instagram",
-      value: "@bibek__parajuli2",
-      link: "https://www.instagram.com/bibek__parajuli2/",
-      color: "text-accent"
     }
   ];
 
@@ -70,7 +63,7 @@ const ContactSection = () => {
             Open to full-time opportunities, freelance projects, and collaboration
           </p>
           <a 
-            href="mailto:parajulibibek275@gmail.com"
+            href="mailto:sujit0777sharma@gmail.com"
             className="inline-flex items-center px-6 sm:px-8 py-2 sm:py-3 bg-primary text-primary-foreground rounded-full font-medium hover-glow transition-all duration-300 hover:scale-105 text-sm sm:text-base"
           >
             <Mail className="w-4 h-4 sm:w-5 sm:h-5 mr-2" />

@@ -3,40 +3,34 @@ import { ExternalLink } from 'lucide-react';
 const CertificationsSection = () => {
   const certifications = [
     {
-      title: "Java Course - Mastering the Fundamentals",
-      provider: "Professional Development",
-      link: "https://moonshot.scaler.com/s/li/EGUmxbXEKg",
-      description: "Comprehensive Java programming course covering core concepts"
+      title: "Python Basics",
+      provider: "Alison",
+      link: "https://alison.com",
+      description: "Fundamental Python programming concepts and applications"
     },
     {
-      title: "Data Structures and Algorithms",
-      provider: "Scaler",
-      link: "https://moonshot.scaler.com/s/sl/DX7huh4HnX?_gl=1%2Aw94lt6%2A_ga%2AMTcwOTc2NDQzNi4xNjkzOTM1OTIw%2A_ga_53S71ZZG1X%2AMTY5OTE5NjA2My4zNC4xLjE2OTkxOTYxMzEuMS4wLjA",
-      description: "Advanced DSA concepts and problem-solving techniques"
+      title: "GenAI Powered Data Analytics Job Simulation",
+      provider: "TATA Group",
+      link: "https://www.tata.com",
+      description: "AI-powered data analytics simulation and practical applications"
     },
     {
-      title: "Problem Solving Basic Certification",
-      provider: "HackerRank",
-      link: "https://www.hackerrank.com/certificates/iframe/8268214e4bf6",
-      description: "Data Structures Problem solving using java."
+      title: "Business Communication",
+      provider: "HP",
+      link: "https://www.hp.com",
+      description: "Professional business communication skills and strategies"
     },
     {
-      title: "Inbound Marketing Certification Course",
-      provider: "HubSpot",
-      link: "https://app.hubspot.com/academy/achievements/l5j2nv8y/en/1/bibek-parajuli/inbound-marketing",
-      description: "Digital marketing strategies and customer acquisition"
+      title: "Social Media Marketing",
+      provider: "HP",
+      link: "https://www.hp.com",
+      description: "Digital marketing strategies and social media management"
     },
     {
-      title: "Create and Design Digital Products using Canva",
-      provider: "Design Institute",
-      link: "https://drive.google.com/file/d/1Z2xewov6UPyr6STN0o-z7kNA0wWFFpCp/view?usp=sharing",
-      description: "Digital design and creative content development"
-    },
-    {
-      title: "TCS iON Career Edge - Young Professional",
-      provider: "TCS",
-      link: "https://drive.google.com/file/d/1CvOSgR80xoiF-4yWfYnY2E47myfsSetM/view?usp=sharing",
-      description: "Professional development and industry readiness"
+      title: "Customer Relationship Management",
+      provider: "HP",
+      link: "https://www.hp.com",
+      description: "CRM strategies and customer engagement techniques"
     }
   ];
 

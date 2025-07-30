@@ -3,28 +3,20 @@ import { Github, ExternalLink } from 'lucide-react';
 const ProjectsSection = () => {
   const projects = [
     {
-      title: "Poshak - Nepali Traditional Fashion App",
-      tech: "Flutter/Dart",
-      date: "June 2025",
-      description: "An e-commerce app for traditional Nepali attire, featuring authentication, wishlists, and a custom UI/theme.",
-      github: "https://github.com/bibekparajuli123/Poshak",
-      image: "https://images.unsplash.com/photo-1461749280684-dccba630e2f6?w=600&h=400&fit=crop"
+      title: "Wedding Site",
+      tech: "HTML & CSS",
+      date: "2024",
+      description: "Developed a frontend application using HTML, CSS and minor use of APIs from Google Maps. Shows detailed information of a wedding organizer along with different tips and galleries.",
+      github: "https://github.com/sujit-4092/",
+      image: "https://images.unsplash.com/photo-1511795409834-ef04bbd61622?w=600&h=400&fit=crop"
     },
     {
-      title: "Khaja Express - Nepali Food Ordering App", 
-      tech: "Flutter/Dart",
-      date: "May 2025",
-      description: "A food delivery app for browsing and ordering Nepali cuisine, with login/signup, shopping cart, and coupon features.",
-      github: "https://github.com/bibekparajuli123/Cuisine_App",
-      image: "https://images.unsplash.com/photo-1487058792275-0ad4aaf24ca7?w=600&h=400&fit=crop"
-    },
-    {
-      title: "Car Rental System",
-      tech: "Java/OOP", 
-      date: "Nov 2024",
-      description: "A console-based car rental application applying key Object-Oriented Programming principles like encapsulation, inheritance, and polymorphism.",
-      github: "https://github.com/bibekparajuli123/CAR_RENTAL_SYSTEM",
-      image: "https://images.unsplash.com/photo-1498050108023-c5249f4df085?w=600&h=400&fit=crop"
+      title: "AI-Based-Review-Classifier", 
+      tech: "Python & Node.js",
+      date: "In Progress",
+      description: "Created an AI model that automatically classifies user reviews as positive, negative or neutral based on trained data from a large dataset with 1000s of reviews.",
+      github: "https://github.com/sujit-4092/",
+      image: "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=600&h=400&fit=crop"
     }
   ];
 

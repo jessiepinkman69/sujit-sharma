@@ -3,10 +3,10 @@ import { useState, useEffect } from 'react';
 
 const HeroSection = () => {
   const roles = [
-    "Aspiring software engineer",
-    "Java Developer", 
-    "Flutter Developer",
-    "Backend Developer"
+    "UI/UX Designer",
+    "Sales & Marketing Professional", 
+    "IT Sales Recruiter",
+    "Frontend Developer"
   ];
   
   const [currentRoleIndex, setCurrentRoleIndex] = useState(0);
@@ -59,7 +59,7 @@ const HeroSection = () => {
               <h1 className="text-3xl sm:text-5xl lg:text-7xl font-bold violet-white-gradient leading-tight">
                 Hello! I Am{' '}
                 <span className="violet-white-gradient block">
-                  Bibek Parajuli.
+                  Sujit Sharma.
                 </span>
               </h1>
               
@@ -72,10 +72,10 @@ const HeroSection = () => {
             {/* Motivational Quote */}
             <div className="space-y-3 max-w-3xl mx-auto lg:mx-0">
               <blockquote className="text-base sm:text-lg lg:text-xl violet-white-gradient italic font-light">
-                "Strive not to be a success, but rather to be of value."
+                "Passionate about connecting people, products, and opportunities to drive business growth."
               </blockquote>
               <p className="text-sm sm:text-base gray-text">
-                Also I am working as a Technical Recruiter in US IT Staffing.
+                From Bhubaneswar, Odisha | B.Tech CSE at KIIT University
               </p>
             </div>
           </div>
@@ -85,8 +85,8 @@ const HeroSection = () => {
             <div className="relative">
               <div className="profile-glow w-60 h-60 sm:w-72 sm:h-72 lg:w-80 lg:h-80">
                 <img 
-                  src="/lovable-uploads/715e5d5e-bdde-461b-9ae8-2c33affec62f.png"
-                  alt="Bibek Parajuli"
+                  src="/lovable-uploads/6e0fcafc-8845-4dc4-86bd-18a96b152d7a.png"
+                  alt="Sujit Sharma"
                 />
               </div>
             </div>

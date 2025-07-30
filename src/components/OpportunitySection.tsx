@@ -1,9 +1,9 @@
 const OpportunitySection = () => {
   const roles = [
-    "Java Developer",
-    "Jr. Software Engineer", 
-    "Backend Developer",
-    "Flutter Developer"
+    "UI/UX Designer",
+    "Frontend Developer", 
+    "Sales & Marketing Specialist",
+    "IT Recruitment Consultant"
   ];
 
   return (

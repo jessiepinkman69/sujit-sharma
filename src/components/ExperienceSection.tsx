@@ -1,43 +1,42 @@
 const ExperienceSection = () => {
   const experiences = [
     {
-      title: "US IT Sales Recruiter",
-      company: "Excellent Pro Group",
-      period: "May 2025 - Present",
+      title: "IT Sales Recruiter",
+      company: "US-based C2C Staffing Firm",
+      period: "2025 - Present",
       responsibilities: [
-        "Executed full-cycle IT recruitment including bench, C2C/W2 placements",
-        "Managed ATS/CRM systems for comprehensive candidate tracking",
-        "Collaborated with vendors and clients for optimal talent placement",
-        "Built strong candidate pipelines across various tech stacks",
-        "Aligned vendor and hiring manager requirements for Agile/Waterfall projects",
-        "Ensured compliance with recruitment standards and regulations"
+        "Skilled IT Sales Recruiter with hands-on experience placing qualified consultants",
+        "Proficient in full-cycle recruitment, candidate sourcing, and client coordination",
+        "Adept at aligning tech talent with project needs while maintaining strong relationships",
+        "Managing both client and consultant relationships effectively",
+        "Sourcing and screening candidates for various IT positions",
+        "Coordinating placements and ensuring successful onboarding"
       ]
     },
     {
-      title: "Flutter Developer",
-      company: "Self-Placed",
-      period: "2023 - Present",
-      responsibilities: [
-        "Built cross-platform mobile applications with custom UI/UX designs",
-        "Implemented robust state management using Provider, Riverpod, and Bloc",
-        "Integrated Firebase services (Authentication, Firestore, Storage, Push Notifications)",
-        "Applied industry best practices for code structure and performance optimization",
-        "Developed responsive designs with Material Design principles",
-        "Maintained clean architecture patterns for scalable app development"
-      ]
-    },
-    {
-      title: "Java Backend Developer",
-      company: "Self-Taught",
+      title: "UI/UX Designer",
+      company: "Freelance/Projects",
       period: "2022 - Present",
       responsibilities: [
-        "Mastered Core Java fundamentals and advanced concepts",
-        "Built robust server-side systems using Spring Boot framework",
-        "Developed RESTful APIs and microservices architecture",
-        "Implemented MySQL database design for data integrity and efficiency",
-        "Created secure authentication and authorization systems",
-        "Documented APIs using Swagger for comprehensive development workflow",
-        "Deployed applications with proper error handling and background job processing"
+        "Passionate and creative UI/UX designer with hands-on experience",
+        "Crafting intuitive and engaging user experiences using Figma",
+        "Working with industry-standard design platforms and tools",
+        "Creating wireframes, prototypes, and high-fidelity designs",
+        "Conducting user research and usability testing",
+        "Collaborating with development teams for seamless implementation"
+      ]
+    },
+    {
+      title: "Sales & Marketing Professional",
+      company: "Various Organizations",
+      period: "2022 - Present",
+      responsibilities: [
+        "Versatile Sales and Marketing professional with proven experience",
+        "Talent acquisition, consultative and product sales expertise",
+        "Event management and strategic campaign execution",
+        "Lead generation and client relationship building",
+        "Employer branding and marketing initiatives",
+        "Connecting people, products, and opportunities to drive business growth"
       ]
     }
   ];

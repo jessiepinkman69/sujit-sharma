@@ -2,24 +2,10 @@ const EducationSection = () => {
   const education = [
     {
       degree: "B.Tech Computer Science Engineering",
-      institution: "KIIT University",
+      institution: "Kalinga Institute of Industrial Technology (KIIT), Bhubaneswar",
       period: "2022 - 2026",
-      gpa: "CGPA 8.86",
+      gpa: "CGPA 8.00",
       type: "primary"
-    },
-    {
-      degree: "Computer Science (12th Grade)",
-      institution: "Annapurna Model College",
-      period: "2020 - 2022",
-      gpa: "GPA 3.22 (12th), 3.95 (11th)",
-      type: "secondary"
-    },
-    {
-      degree: "Secondary Education (10th Grade)",
-      institution: "Shree Saraswoti Secondary Public School",
-      period: "Completed 2020",
-      gpa: "GPA 3.85",
-      type: "secondary"
     }
   ];
 
